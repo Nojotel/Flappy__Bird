@@ -1,10 +1,10 @@
 let frames = 0;
 
 const gameState = {
-    current: 0,
-    ready: 0,
-    playing: 1,
-    over: 2,
+  current: 0,
+  ready: 0,
+  playing: 1,
+  over: 2,
 };
 
 const DEGREE = Math.PI / 180;
